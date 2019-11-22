@@ -1,0 +1,12 @@
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.deps.json
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.dll
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\bin\Debug\netstandard2.0\GreatQuotes.pdb
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\QuoteDetailPage.xaml.g.cs
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\QuoteListPage.xaml.g.cs
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.AssemblyInfo.cs
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.dll
+D:\GITHUBUPDATAS\mvvm-viewmodel\src\exercise1\final\GreatQuotes\obj\Debug\netstandard2.0\GreatQuotes.pdb
